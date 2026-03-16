@@ -1,7 +1,3 @@
-Here is a **clean and professional README** you can use for your project.
-
----
-
 # California Housing Price Prediction (KNN Regression)
 
 ## Project Overview
@@ -94,6 +90,15 @@ california_knn_pipeline.pkl
 ```
 
 This file contains both the **preprocessing steps and trained model**, making it ready for future predictions or deployment in an application.
+
+## How to Run
+
+Install dependencies using pip install
+
+Run the app:
+
+streamlit run streamlit_app.py
+
 
 ## Key Learning Outcomes
 
